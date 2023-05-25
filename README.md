@@ -17,7 +17,7 @@ Ex:
 ```
   {
     "name": "John"
-   }
+  }
  ```
  
  To update a user, use the PUT method with the following parameters:
